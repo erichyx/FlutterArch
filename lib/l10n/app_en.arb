@@ -1,0 +1,20 @@
+{
+    "label_no_rating": "No score",
+    "title_movie_screen": "Popular movie",
+    "label_expand": "Expand",
+    "title_movie_detail": "Movie",
+    "label_intro": "Introduction",
+    "label_movie_credits": "Credits",
+    "label_in_douban": "in douban",
+    "label_trailer": "Trailer",
+    "label_movie_photos": "Trailer / Photos",
+    "label_movie_related": "Like this movie also like",
+    "fmt_movie_watch_num": "watched {num}",
+    "@fmt_movie_watch_num": {
+            "placeholders": {
+                "num": {
+                    "type": "int"
+                }
+            }
+        }
+}

@@ -1,0 +1,20 @@
+{
+    "label_no_rating": "暂无评分",
+    "title_movie_screen": "热门电影",
+    "label_expand": "展开",
+    "title_movie_detail": "电影",
+    "label_intro": "简介",
+    "label_movie_credits": "演职员",
+    "label_in_douban": "在豆瓣",
+    "label_trailer": "预告片",
+    "label_movie_photos": "预告片 / 剧照",
+    "label_movie_related": "喜欢这部电影的人也喜欢",
+    "fmt_movie_watch_num": "看过 {num}",
+    "@fmt_movie_watch_num": {
+        "placeholders": {
+            "num": {
+                "type": "int"
+            }
+        }
+    }
+}
